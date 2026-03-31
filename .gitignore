@@ -1,0 +1,10 @@
+# Compiled Object files
+*.o
+# Firmware binaries
+*.hex
+*.bin
+*.elf
+# Build output directory
+build/
+# VS Code settings
+.vscode/
